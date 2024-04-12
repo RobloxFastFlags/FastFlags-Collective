@@ -22,14 +22,13 @@
 [Watch a Video Tutorial](https://streamable.com/rk5an6)
 
  # List Navigation
-* **[Rendering](https://rentry.org/uffl/#rendering)**
-* **[Graphical](https://rentry.org/uffl/#graphical-settings)**
-* **[UI](https://rentry.org/uffl/#user-interface)**
-* **[Textures](https://github.com/FastFlags/FastFlags-Collective/tree/textures)**
-* **[Physics](https://rentry.org/uffl/#physics)**
-* **[Other FFlags](https://rentry.org/uffl/#other-fflags)**
-* **[Links](https://rentry.org/uffl/#links)**
-
+* **[Rendering](https://github.com/RobloxFastFlags/FastFlags-Collective?tab=readme-ov-file#rendering-api)**
+* **[Graphical](https://github.com/RobloxFastFlags/FastFlags-Collective?tab=readme-ov-file#rendering-api)**
+* **[UI](https://github.com/RobloxFastFlags/FastFlags-Collective?tab=readme-ov-file#user-interface)**
+* **[Textures](https://github.com/RobloxFastFlags/FastFlags-Collective?tab=readme-ov-file#textures)**
+* **[Physics](https://github.com/RobloxFastFlags/FastFlags-Collective?tab=readme-ov-file#physics)**
+* **[Other FFlags](https://github.com/RobloxFastFlags/FastFlags-Collective?tab=readme-ov-file#other-fflags)**
+* **[Links](https://github.com/RobloxFastFlags/FastFlags-Collective?tab=readme-ov-file#links)
 <h3 align="center">══════⊹⊱≼≽⊰⊹══════</h3>
 
 <h1 align="center">Lightning Technologies</h1>
@@ -177,7 +176,7 @@ High
 ```
 
 ### Low Render Distance
-###### [FRM](bigpenisgang)
+###### [FRM](https://github.com/RobloxFastFlags/FastFlags-Collective?tab=readme-ov-file#-frm-levels-)
 ```json
 {
 		"DFIntDebugRestrictGCDistance": "1"
@@ -204,7 +203,7 @@ High
 }
 ```
 ### Makes avatars shiny 
-###### [everything goes black on <3] ***[DFIntDebugFRMQualityLevelOverride is there to set your graphics to 10, You can change it to anything above 3: [Click here to view](https://rentry.org/uffl/#frm-levels) ]***
+###### [everything goes black on <3] ***[DFIntDebugFRMQualityLevelOverride is there to set your graphics to 10, You can change it to anything above 3: [Click here to view](https://github.com/RobloxFastFlags/FastFlags-Collective?tab=readme-ov-file#-frm-levels-) ]***
 ```json
 {
 		"DFIntRenderClampRoughnessMax": "-640000000",
@@ -252,7 +251,7 @@ High
 }
 ```
 ### Enable GPULightCulling
-###### Combine with [Lighting Attenuation](https://FastFlags/FastFlags-Collective/?tab=readme-ov-file#lighting-attenuation) for better vision
+###### Combine with [Lighting Attenuation](https://github.com/RobloxFastFlags/FastFlags-Collective?tab=readme-ov-file#lighting-attenuation) for better vision
 ```json
 {
 		"FFlagFastGPULightCulling3": "True"
