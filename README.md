@@ -29,6 +29,11 @@
 * **[Physics](https://github.com/RobloxFastFlags/FastFlags-Collective?tab=readme-ov-file#physics)**
 * **[Other FFlags](https://github.com/RobloxFastFlags/FastFlags-Collective?tab=readme-ov-file#other-fflags)**
 * **[Links](https://github.com/RobloxFastFlags/FastFlags-Collective?tab=readme-ov-file#links)**
+* **[FastFlag Community Server](https://discord.gg/YreqZ7aYmg)**
+
+<img src="assets/bitdancer.png" width="888"/>
+
+
 <h3 align="center">══════⊹⊱≼≽⊰⊹══════</h3>
 
 <h1 align="center">Lightning Technologies</h1>
