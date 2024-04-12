@@ -28,7 +28,7 @@
 * **[Textures](https://github.com/RobloxFastFlags/FastFlags-Collective?tab=readme-ov-file#textures)**
 * **[Physics](https://github.com/RobloxFastFlags/FastFlags-Collective?tab=readme-ov-file#physics)**
 * **[Other FFlags](https://github.com/RobloxFastFlags/FastFlags-Collective?tab=readme-ov-file#other-fflags)**
-* **[Links](https://github.com/RobloxFastFlags/FastFlags-Collective?tab=readme-ov-file#links)
+* **[Links](https://github.com/RobloxFastFlags/FastFlags-Collective?tab=readme-ov-file#links)**
 <h3 align="center">══════⊹⊱≼≽⊰⊹══════</h3>
 
 <h1 align="center">Lightning Technologies</h1>
