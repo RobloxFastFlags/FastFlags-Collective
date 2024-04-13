@@ -932,7 +932,7 @@ High
 ### [NVIDIA Shaders Guide](https://github.com/catb0x/Roblox-Shaders-Guide) *[Github Repo Link]*
 ### [EnableAnselForRoblox](https://github.com/DED0026/EnableAnselForRoblox) *[Github Repo Link]*
 ### [potato fflags](https://github.com/catb0x/Roblox-Potato-FFlags) *[Github Repo Link]*
-### [RCOOL](https://github.com/jamesgarry1/RCOOL)
+### [RCOOL](https://github.com/jamesgarry1/RCOOL) *[Github Repo Link]*
 ### [Roblox Channel Checker](https://cdn.discordapp.com/attachments/1225631712285823059/1228285379518529567/rct_source.7z?ex=662b7ce6&is=661907e6&hm=32091b6b6c30a4d700303d6b1ae79cae8db0dedb80682e627cd7cca03aaa25c9&) *[Download Link]*
 ### [Bindable Lag Switch](https://github.com/Hermivore8151/Bindable-LagSwitch) *[Github Repo Link]*
 ### [MEGA FLAG LIST](https://discord.com/channels/1099468797410283540/1139962301991104582/1170417533355036712) *[Bloxstrap Server]*
