@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/pizzaboxer/bloxstrap/main/Images/Bloxstrap.png" width="28"> Ultimate FastFlag List </h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/pizzaboxer/bloxstrap/main/Images/Bloxstrap.png" width="28"> Ultimate FastFlags List </h1>
 <h3 align="center"> https://discord.gg/YreqZ7aYmg </h3>
 <h5 align="center">Merely because this list highlights abusable fast flags doesn't imply we're promoting using them to unfairly impact others' gameplay. Remember, exploiting in Roblox goes against their ToU, and we don't support such activities. For more information, see Roblox's <a href="https://en.help.roblox.com/hc/en-us/articles/203312450-Cheating-and-Exploiting">Cheating and Exploiting</a> policy and <a href="https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use">Terms of Use</h5>
 
