@@ -413,7 +413,9 @@ High
 ```
 ### Pin Chat on Chrome UI
 ```json
-{ "FFlagEnableChromePinnedChat":  "True" }
+{
+    "FFlagEnableChromePinnedChat":  "True"
+}
 ```
 ### Chrome UI Topbar Removal
 ```json
@@ -424,11 +426,15 @@ High
 ```
 ### Disable Bubble Chat
 ```json
-{ "FFlagEnableBubbleChatFromChatService":  "False" }
+{
+    "FFlagEnableBubbleChatFromChatService":  "False"
+}
 ```
 ### Disable Selfview
 ```json
-{ "FFlagCoreGuiTypeSelfViewPresent":  "False" }
+{
+    "FFlagCoreGuiTypeSelfViewPresent":  "False"
+}
 ```
 ### Remove VC Beta Badge
 ```json
