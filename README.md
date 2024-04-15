@@ -946,8 +946,8 @@ High
 ###### -> ‧⁺̣˚̣̣*̣̩⋆̩·̩̩୨˚̣̣̣̣͙୧·̩̩⋆̩*̣̩˚̣̣⁺̣‧ You've reached the bottom of the list! ‧⁺̣˚̣̣*̣̩⋆̩·̩̩୨˚̣̣̣̣͙୧·̩̩⋆̩*̣̩˚̣̣⁺̣‧୨ <-
 
  List Information
-* Version: 9.0.1 [4/13/2024 7:11 AM UTC]
-* **125 Currently Listed**
+* Version: 9.0.2 [4/15/2024 7:63 AM UTC]
+* **126 Currently Listed**
 * Creation Date: 9:46 PM 08/25/2023 
 
 [.](https://open.spotify.com/track/4uhvMW7ly7tJil31YYscAN)
