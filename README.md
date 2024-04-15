@@ -538,6 +538,12 @@ High
     "FFlagSimDefaultPGSSolver": "False"
 }
 ```
+### Crash Roblox
+```json
+{
+        "DFIntTimestepArbiterThresholdCFLThou": "0"
+}
+```
 ### Adjust Hip Height Clamps
 ###### https://www.roblox.com/bundles/63/Mage-Animation-Package
 ```json
