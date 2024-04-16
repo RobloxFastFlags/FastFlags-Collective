@@ -341,6 +341,12 @@ High
     "DFIntTaskSchedulerTargetFps": "0"
 }
 ```
+### Revert spacing on errors
+```json
+{
+        "FFlagErrorPromptResizesHeight": "False"
+}
+```
 ### GUI Hiding Toggles
 ```json
 {
