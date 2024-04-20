@@ -541,7 +541,7 @@ High
 ````
 <h1 align="center">Physics</h1>
 
-[!](https://cdn.discordapp.com/attachments/1029533631393300530/1231198077730422866/attachment.gif?ex=66361590&is=6623a090&hm=928b2a3d697c2e4a8a0fc912f9966eb84843f8f70a7c119d3900c4203fd53358&)
+### zomg
 ```json
 {
     "FIntPhysicsGridHierarchyLowestLevelInitBinCount": "199999999",
