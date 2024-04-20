@@ -332,8 +332,24 @@ High
     "FIntCameraFarZPlane": "1"
 }
 ```
+### Xray
+###### too lazy to explain what it does, shout out to tyetonix
+```json
+{
+    "DFIntCullFactorPixelThresholdMainViewHighQuality": "10000",
+    "DFIntCullFactorPixelThresholdMainViewLowQuality": "10000",
+    "DFIntCullFactorPixelThresholdShadowMapHighQuality": "10000",
+    "DFIntCullFactorPixelThresholdShadowMapLowQuality": "10000"
+}
+```
 <h1 align="center">User Interface</h1>
 
+### Revert New Font
+```json
+{
+    "FFlagEnableNewFontNameMappingABTest2": "False"
+}
+```
 ### FPS Unlocker in Roblox Menu Settings
 ```json
 {
@@ -400,12 +416,6 @@ High
 ```json
 {
     "FFlagTrackerLodControllerDebugUI": "True"
-}
-```
-### Disable Autocomplete
-```json
-{
-    "FFlagEnableCommandAutocomplete": "False"
 }
 ```
 ### Chrome UI TopBar
@@ -531,23 +541,25 @@ High
 ````
 <h1 align="center">Physics</h1>
 
+[!](https://cdn.discordapp.com/attachments/1029533631393300530/1231198077730422866/attachment.gif?ex=66361590&is=6623a090&hm=928b2a3d697c2e4a8a0fc912f9966eb84843f8f70a7c119d3900c4203fd53358&)
+```json
+{
+    "FIntPhysicsGridHierarchyLowestLevelInitBinCount": "199999999",
+    "FIntPhysicsGridHierarchyLowestLevelInitBinCountWorldModel": "100000000",
+    "FIntPhysicsSolverCollisionPoolBucketSize": "2147483647",
+    "FIntPhysicsSolverCollisionPoolBucketSizeWorldModel": "2147483647"
+}
+```
 ### Remap R6 to R15 Rigs
 ```json
 {
     "FFlagRemapAnimationR6ToR15Rig": "True"
 }
 ```
-### Disables PGS Solver
-###### Projected Gauss-Seidel physics, or PGS physics, is a more reliable but more costly physics solver released in summer of 2015. The solver has a lot less "give" than spring physics, in terms of parts won't want to go into each other at all, making joints less flexible. This allows for parts to have less of a tendency to go through each other. As of October 21, 2015, the joints called glue joints are supported in the system, and will not break under pressure. The solver takes more processing power to work over spring physics, which will cause games to act slower. This solver runs at 240 Hz.
-```json
-{
-    "FFlagSimDefaultPGSSolver": "False"
-}
-```
 ### Crash Roblox
 ```json
 {
-        "DFIntTimestepArbiterThresholdCFLThou": "0"
+    "DFIntTimestepArbiterThresholdCFLThou": "0"
 }
 ```
 ### Adjust Hip Height Clamps
@@ -804,20 +816,6 @@ High
     "FFlagDebugDisplayFPS": "True"
 }
 ```
-### Verified Badge
-###### Clientsided
-```json
-{
-    "FStringWhitelistVerifiedUserId": "UserID"
-}
-```
-### Verified Badge on everyone
-###### Clientsided
-```json
-{
-    "FFlagOverridePlayerVerifiedBadge": "True"
-}
-```
 ### Applies cool colors to stuff
 ```json
 {
@@ -921,14 +919,6 @@ High
     "FFlagDebugRomarkMockingAudioDevices": "True"
 }
 ```
-### local rcc
-[?](https://github.com/rsblox/local_rcc)
-```json
-{
-    "FFlagDebugLocalRccServerConnection": "True",
-    "FFlagRefactorPlayerConnect": "False"
-}
-```
 ### Exclusive Fullscreen
 ```json
 {
@@ -952,8 +942,8 @@ High
 <h4 align="center">‧⁺̣˚̣̣*̣̩⋆̩·̩̩୨˚̣̣̣̣͙୧·̩̩⋆̩*̣̩˚̣̣⁺̣‧ You've reached the bottom of the list! ‧⁺̣˚̣̣*̣̩⋆̩·̩̩୨˚̣̣̣̣͙୧·̩̩⋆̩*̣̩˚̣̣⁺̣‧୨</h4>
 
  List Information
-* Version: 9.0.3 [4/16/2024 12:22 PM UTC]
-* **127 Currently Listed**
+* Version: 9.0.5 [4/16/2024 12:22 PM UTC]
+* **124 Currently Listed**
 * Creation Date: 9:46 PM 08/25/2023 
 
 <h3 align="center"><img src="https://i.scdn.co/image/ab67616d0000b27336977e237a8f70ec6c990636" width="128"/> </h3>
