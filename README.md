@@ -1,13 +1,19 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/pizzaboxer/bloxstrap/main/Images/Bloxstrap.png" width="28"> Ultimate FastFlags List </h1>
-<h3 align="center"> https://discord.gg/YreqZ7aYmg </h3>
-<h5 align="center">Merely because this list highlights abusable fast flags doesn't imply we're promoting using them to unfairly impact others' gameplay. Remember, exploiting in Roblox goes against their ToU, and we don't support such activities. For more information, see Roblox's <a href="https://en.help.roblox.com/hc/en-us/articles/203312450-Cheating-and-Exploiting">Cheating and Exploiting</a> policy and <a href="https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use">Terms of Use</h5>
+<h1 align="center"><img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> Ultimate FastFlags List</h1>
+
+<h3 align="center">https://discord.gg/YreqZ7aYmg</h3>
+
+#### Version: 1.0.0.0++ [4/22/2024]
+* **133 Currently Listed**
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
 2. **Navigate to `Fast Flags` >> `Fast Flags Editor` >> `Import Json`.**
 3. **Paste in the JSON.**
 4. **Save and your good to go!**
+
 <img src="/assets/tutorial.gif" width="750"/>
+
+[Watch a Video Tutorial](https://www.youtube.com/watch?v=d7jzGM5kYO4)
 
 ## Normal Roblox Bootstrapper  How to Use:
 ###### You can also do Roblox Studio
@@ -21,40 +27,18 @@
 [Watch a Video Tutorial](https://streamable.com/rk5an6)
 
  # List Navigation
-* **[Rendering](https://github.com/RobloxFastFlags/FastFlags-Collective?tab=readme-ov-file#rendering-api)**
-* **[Graphical](https://github.com/RobloxFastFlags/FastFlags-Collective?tab=readme-ov-file#rendering-api)**
-* **[UI](https://github.com/RobloxFastFlags/FastFlags-Collective?tab=readme-ov-file#user-interface)**
-* **[Textures](https://github.com/RobloxFastFlags/FastFlags-Collective?tab=readme-ov-file#textures)**
-* **[Physics](https://github.com/RobloxFastFlags/FastFlags-Collective?tab=readme-ov-file#physics)**
-* **[Other FFlags](https://github.com/RobloxFastFlags/FastFlags-Collective?tab=readme-ov-file#other-fflags)**
-* **[Links](https://github.com/RobloxFastFlags/FastFlags-Collective?tab=readme-ov-file#links)**
+* **[Rendering](https://github.com/RobloxFastFlags/FastFlags-Collective/tree/main?tab=readme-ov-file#rendering)**
+* **[Graphical](https://github.com/RobloxFastFlags/FastFlags-Collective/tree/main?tab=readme-ov-file#graphical-settings)**
+* **[UI](https://github.com/RobloxFastFlags/FastFlags-Collective/tree/main?tab=readme-ov-file#user-interface)**
+* **[Textures](https://github.com/RobloxFastFlags/FastFlags-Collective/tree/main?tab=readme-ov-file#textures)**
+* **[Physics](https://github.com/RobloxFastFlags/FastFlags-Collective/tree/main?tab=readme-ov-file#physics)**
+* **[Other FFlags](https://github.com/RobloxFastFlags/FastFlags-Collective/tree/main?tab=readme-ov-file#other-fflags)**
+* **[Links](https://github.com/RobloxFastFlags/FastFlags-Collective/tree/main?tab=readme-ov-file#links)**
 * **[FastFlag Community Server](https://discord.gg/YreqZ7aYmg)**
 
 <img src="assets/bitdancer.png" width="888"/>
 
-
 <h3 align="center">══════⊹⊱≼≽⊰⊹══════</h3>
-
-<h1 align="center">Lightning Technologies</h1>
-
-### Voxel Lighting
-```json
-{
-    "DFFlagDebugRenderForceTechnologyVoxel": "True"
-}
-```
-### Shadowmap Lighting
-```json
-{
-    "FFlagDebugForceFutureIsBrightPhase2": "True"
-}
-```
-### Future Lighting
-```json
-{
-    "FFlagDebugForceFutureIsBrightPhase3": "True"
-}
-```
 
 <h1 align="center">Rendering API</h1>
 
@@ -92,7 +76,28 @@
 }
 ```
 
-<h1 align="center">Graphical Settings <sup>& other stuff</sup></h1>
+<h1 align="center">Lightning Technologies</h1>
+
+### Voxel Lighting (Phase 1)
+```json
+{
+    "DFFlagDebugRenderForceTechnologyVoxel": "True"
+}
+```
+### Shadowmap Lighting (Phase 2)
+```json
+{
+    "FFlagDebugForceFutureIsBrightPhase2": "True"
+}
+```
+### Future Lighting (Phase 3)
+```json
+{
+    "FFlagDebugForceFutureIsBrightPhase3": "True"
+}
+```
+
+<h1 align="center">Graphical Settings <sup>& more</sup></h1>
 
 ### Draws a circle under avatars
 ```json
@@ -159,7 +164,7 @@
 }
 ```
 
-#### ->FRM Levels<-
+<h4 align="center">FRM Levels</h4>
 
 ```
 Low
@@ -179,8 +184,16 @@ High
 10 = 21
 ```
 
+### 21 Graphics Quality Slider
+```json
+{
+    "FFlagCommitToGraphicsQualityFix": "True",
+    "FFlagFixGraphicsQuality": "True"
+}
+```
+
 ### Low Render Distance
-###### [FRM](https://github.com/RobloxFastFlags/FastFlags-Collective?tab=readme-ov-file#-frm-levels-)
+###### [FRM](https://github.com/RobloxFastFlags/FastFlags-Collective/tree/main?tab=readme-ov-file#frm-levels)
 ```json
 {
     "DFIntDebugRestrictGCDistance": "1"
@@ -207,7 +220,7 @@ High
 }
 ```
 ### Makes avatars shiny 
-###### [everything goes black on <3] ***[DFIntDebugFRMQualityLevelOverride is there to set your graphics to 10, You can change it to anything above 3: [Click here to view](https://github.com/RobloxFastFlags/FastFlags-Collective?tab=readme-ov-file#-frm-levels-) ]***
+###### [everything goes black on <3] ***[DFIntDebugFRMQualityLevelOverride is there to set your graphics to 10, You can change it to anything above 3: [Click here to view](https://github.com/RobloxFastFlags/FastFlags-Collective/tree/main?tab=readme-ov-file#frm-levels) ]***
 ```json
 {
     "DFIntRenderClampRoughnessMax": "-640000000",
@@ -255,7 +268,7 @@ High
 }
 ```
 ### Enable GPULightCulling
-###### Combine with [Lighting Attenuation](https://github.com/RobloxFastFlags/FastFlags-Collective?tab=readme-ov-file#lighting-attenuation) for better vision
+###### Combine with [Lighting Attenuation](https://FastFlags/FastFlags-Collective/?tab=readme-ov-file#lighting-attenuation) for better vision
 ```json
 {
     "FFlagFastGPULightCulling3": "True"
@@ -326,6 +339,13 @@ High
     "DFFlagDebugDrawBroadPhaseAABBs": "True"
 }
 ```
+### fflag above but more complex
+##### Draws an outline around every body part
+```json
+{
+    "DFFlagDebugDrawBvhNodes": "True"
+}
+```
 ### Buggy ZPlane Camera
 ```json
 {
@@ -342,9 +362,10 @@ High
     "DFIntCullFactorPixelThresholdShadowMapLowQuality": "10000"
 }
 ```
+
 <h1 align="center">User Interface</h1>
 
-### Revert New Font
+### Revert New "Builder" Font
 ```json
 {
     "FFlagEnableNewFontNameMappingABTest2": "False"
@@ -360,7 +381,7 @@ High
 ### Revert spacing on errors
 ```json
 {
-        "FFlagErrorPromptResizesHeight": "False"
+    "FFlagErrorPromptResizesHeight": "False"
 }
 ```
 ### GUI Hiding Toggles
@@ -400,11 +421,15 @@ High
 ```
 ### Custom MicroProfile Scale
 ```json
-{ "DFIntMicroProfilerDpiScaleOverride":  "100" }
+{
+    "DFIntMicroProfilerDpiScaleOverride":  "100"
+}
 ```
 ### Hides gui
 ```json
-{ "FFlagDebugAdornsDisabled":  "True" }
+{
+    "FFlagDebugAdornsDisabled":  "True"
+}
 ```
 ### Dont Render UI
 ```json
@@ -418,6 +443,7 @@ High
     "FFlagTrackerLodControllerDebugUI": "True"
 }
 ```
+
 ### Chrome UI TopBar
 ```json
 {
@@ -429,9 +455,7 @@ High
 ```
 ### Pin Chat on Chrome UI
 ```json
-{
-    "FFlagEnableChromePinnedChat":  "True"
-}
+{ "FFlagEnableChromePinnedChat":  "True" }
 ```
 ### Chrome UI Topbar Removal
 ```json
@@ -494,17 +518,17 @@ High
 ### Fix Textures
 ```json
 {
-    "FFlagMSRefactor5": "False"
+      "FFlagMSRefactor5": "False"
 }
 ```
 ### No Textures
 ```json
 {
-    "FStringPartTexturePackTable2022": "{\"glass\":{\"ids\":[\"rbxassetid://9873284556\",\"rbxassetid://9438453972\"],\"color\":[254,254,254,7]}}",
-    "FStringPartTexturePackTablePre2022": "{\"glass\":{\"ids\":[\"rbxassetid://7547304948\",\"rbxassetid://7546645118\"],\"color\":[254,254,254,7]}}",
-    "FStringTerrainMaterialTable2022": "",
-    "FStringTerrainMaterialTablePre2022": "",
-    "FFlagMSRefactor5": "False"
+      "FStringPartTexturePackTable2022": "{\"glass\":{\"ids\":[\"rbxassetid://9873284556\",\"rbxassetid://9438453972\"],\"color\":[254,254,254,7]}}",
+      "FStringPartTexturePackTablePre2022": "{\"glass\":{\"ids\":[\"rbxassetid://7547304948\",\"rbxassetid://7546645118\"],\"color\":[254,254,254,7]}}",
+      "FStringTerrainMaterialTable2022": "",
+      "FStringTerrainMaterialTablePre2022": "",
+      "FFlagMSRefactor5": "False"
 }
 ```
 ### Trollface Textures
@@ -539,9 +563,10 @@ High
     "FFlagMSRefactor5": "False"
 }
 ````
+
 <h1 align="center">Physics</h1>
 
-### zomg
+### omg i cant believe roblox is that dumb to do this...
 ```json
 {
     "FIntPhysicsGridHierarchyLowestLevelInitBinCount": "199999999",
@@ -550,16 +575,28 @@ High
     "FIntPhysicsSolverCollisionPoolBucketSizeWorldModel": "2147483647"
 }
 ```
-### Remap R6 to R15 Rigs
+### Crash Roblox
+```json
+{
+    "DFIntTimestepArbiterThresholdCFLThou": "0"
+}
+```
+### Stuttery Animation Fix
+```json
+{
+    "DFIntTimestepArbiterThresholdCFLThou": "300"
+}
+```
+### Remap R6 to R15 Rigs/Weird Movement
 ```json
 {
     "FFlagRemapAnimationR6ToR15Rig": "True"
 }
 ```
-### Crash Roblox
+### Weird Leg Movement
 ```json
 {
-    "DFIntTimestepArbiterThresholdCFLThou": "0"
+    "DFFlagAnimatorPostProcessIK": "True"
 }
 ```
 ### Adjust Hip Height Clamps
@@ -586,6 +623,7 @@ High
 }
 ```
 ### No Animations
+###### **Stops the game from trying to replicate your animations in the server. You dont have animations in the server but you do for your client**
 ```json
 {
     "DFIntReplicatorAnimationTrackLimitPerAnimator": "-1"
@@ -633,9 +671,10 @@ High
 }
 ```
 ### Invisible 1
+###### **Stops the physics on your character froms sending to the server so your character doesn't move for the server. You can move on your client.**
 ```json
 {
-    "DFIntS2PhysicsSenderRate": "30"
+    "DFIntS2PhysicsSenderRate": "-30"
 }
 ```
 ### Invisible 2
@@ -671,10 +710,10 @@ High
 }
 ```
 ### Noclip
-###### adjust the value so u dont fall through the ground
+###### Adjust the value so you don't fall through the ground
 ```json
 {
-    "DFFlagAssemblyExtentsExpansionStudHundredth": "-50"
+        "DFFlagAssemblyExtentsExpansionStudHundredth": "-50"
 }
 ```
 ### Hip Height
@@ -714,7 +753,7 @@ High
 ### Adjust Scroll Speed
 ```json
 {
-    "FIntScrollWheelDeltaAmount": "True"
+    "FIntScrollWheelDeltaAmount": "140"
 }
 ```
 ### Surf the web inside of Roblox
@@ -828,6 +867,12 @@ High
     "FFlagDebugLightGridShowChunks": "True"
 }
 ```
+### Show Outlined Chunks that are being interacted
+```json
+{
+    "DFFlagDebugEnableStreamingSolverVisualization": "True"
+}
+```
 ### Remove Disconnect Blur/Loading Blur
 ```json
 {
@@ -925,7 +970,37 @@ High
     "FFlagHandleAltEnterFullscreenManually": "False"
 }
 ```
-
+### logs stuff in dev console
+```json
+{
+    "FStringDebugLuaLogLevel": "debug",
+    "FStringDebugLuaLogPattern": "ExpChat/mountClientApp"
+}
+```
+### Self Explanatory 1
+```json
+{
+    "DFFlagDebugPrintDataPingBreakDown": "True"
+}
+```
+### Self Explanatory 2
+```json
+{
+    "DFFlagDebugAudioLogging": "True"
+}
+```
+### Duplicate of Above
+```json
+{
+    "DFFlagDebugAudioLogging2": "True"
+}
+```
+### Self Explanatory 3
+```json
+{
+    "FFlagTrackerLodControllerDebugUI": "True"
+}
+```
 
 <h1 align="center">Links</h1>
 
@@ -933,7 +1008,6 @@ High
 ### [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) *[Github Repo Link]*
 ### [NVIDIA Shaders Guide](https://github.com/catb0x/Roblox-Shaders-Guide) *[Github Repo Link]*
 ### [EnableAnselForRoblox](https://github.com/DED0026/EnableAnselForRoblox) *[Github Repo Link]*
-### [potato fflags](https://github.com/catb0x/Roblox-Potato-FFlags) *[Github Repo Link]*
 ### [RCOOL](https://github.com/jamesgarry1/RCOOL) *[Github Repo Link]*
 ### [Roblox Channel Checker](https://cdn.discordapp.com/attachments/1225631712285823059/1228285379518529567/rct_source.7z?ex=662b7ce6&is=661907e6&hm=32091b6b6c30a4d700303d6b1ae79cae8db0dedb80682e627cd7cca03aaa25c9&) *[Download Link]*
 ### [Bindable Lag Switch](https://github.com/Hermivore8151/Bindable-LagSwitch) *[Github Repo Link]*
@@ -941,15 +1015,12 @@ High
 
 <h4 align="center">‧⁺̣˚̣̣*̣̩⋆̩·̩̩୨˚̣̣̣̣͙୧·̩̩⋆̩*̣̩˚̣̣⁺̣‧ You've reached the bottom of the list! ‧⁺̣˚̣̣*̣̩⋆̩·̩̩୨˚̣̣̣̣͙୧·̩̩⋆̩*̣̩˚̣̣⁺̣‧୨</h4>
 
- List Information
-* Version: 9.0.5 [4/16/2024 12:22 PM UTC]
-* **124 Currently Listed**
-* Creation Date: 9:46 PM 08/25/2023 
+# List Information
+* *Creation Date: 9:46 PM 08/25/2023*
 
-<h3 align="center"><img src="https://i.scdn.co/image/ab67616d0000b27336977e237a8f70ec6c990636" width="128"/> </h3>
+<h3 align="center"><img src="https://i.scdn.co/image/ab67616d0000b2739027ba239bc23cb8586cd6be" width="128"/> </h3>
 
-<h3 align="center"><a href="https://open.spotify.com/track/6RhRGitp1UtVOvboboXq2A">His & Her Fiend</a> - ScHoolboy Q</h3>
-
+<h3 align="center"><a href="https://open.spotify.com/track/0i1bokCJ95evU1gb5HcXFy">Never Lose Me</a> - Flo Milli, SZA, Cardi B</h3>
 
 <h4 align="center">FastFlags 2024®<sup>eal</sup></h3>
 
