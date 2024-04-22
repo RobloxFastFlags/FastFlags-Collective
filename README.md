@@ -12,6 +12,7 @@
 4. **Save and your good to go!**
 
 <img src="/assets/tutorial.gif" width="750"/>
+
 [Watch a Video Tutorial](https://www.youtube.com/watch?v=d7jzGM5kYO4)
 
 ## Normal Roblox Bootstrapper  How to Use:
