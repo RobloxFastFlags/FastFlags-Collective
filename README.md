@@ -713,7 +713,7 @@ High
 ###### Adjust the value so you don't fall through the ground
 ```json
 {
-        "DFFlagAssemblyExtentsExpansionStudHundredth": "-50"
+    "DFFlagAssemblyExtentsExpansionStudHundredth": "-50"
 }
 ```
 ### Hip Height
@@ -1002,6 +1002,32 @@ High
 }
 ```
 
+<h1 align="center">Partnered Discord Servers</h1>
+
+<h3 align="center">✅ Approved & ⚠ Caution</h3>
+
+<h3 align="center"><img src="https://cdn.discordapp.com/icons/1021647263514247248/a_dd36ba0ae8c5b1a4450571daae64a545.gif" width="128"/> </h3>
+
+<h3 align="center"><a href="https://discord.gg/YreqZ7aYmg">Our Discord Server ✅</a></h3>
+
+<h3 align="center">
+  <a href="https://discord.gg/YreqZ7aYmg">
+    <img src="https://upload.wikimedia.org/wikipedia/en/9/98/Discord_logo.svg" width="100" alt="Join server">
+  </a>
+</h3>
+
+<h5 align="center">Server above is Approved. You should join.</h5>
+
+<h3 align="center"><img src="https://cdn.discordapp.com/icons/1230111631627911199/7d9a147ddea0fe465956e0aa47eedb0d.webp" width="128"/> </h3>
+
+<h3 align="center"><a href="https://discord.gg/8vZQbGNt">Dr JR Fanclub ✅</a></h3>
+
+<h3 align="center">
+  <a href="https://discord.gg/8vZQbGNt">
+    <img src="https://upload.wikimedia.org/wikipedia/en/9/98/Discord_logo.svg" width="100" alt="Join server">
+  </a>
+</h3>
+
 <h1 align="center">Links</h1>
 
 ### [Make Your Own Custom Roblox Textures](https://github.com/GoingCrazyDude/roblox-custom-textures/blob/main/README.md) *[Github Repo Link]*
@@ -1021,6 +1047,12 @@ High
 <h3 align="center"><img src="https://i.scdn.co/image/ab67616d0000b2739027ba239bc23cb8586cd6be" width="128"/> </h3>
 
 <h3 align="center"><a href="https://open.spotify.com/track/0i1bokCJ95evU1gb5HcXFy">Never Lose Me</a> - Flo Milli, SZA, Cardi B</h3>
+
+<h1 align="center">
+  <a href="https://open.spotify.com/track/0i1bokCJ95evU1gb5HcXFy">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg" width="100" alt="Listen on Spotify">
+  </a>
+</h1>
 
 <h4 align="center">FastFlags 2024®<sup>eal</sup></h3>
 
