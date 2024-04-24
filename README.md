@@ -2,8 +2,8 @@
 
 <h3 align="center">https://discord.gg/YreqZ7aYmg</h3>
 
-#### Version: 1.0.0.0++ [4/22/2024]
-* **133 Currently Listed**
+#### Version: 1.0.0.1++ [4/22/2024]
+* **136 Currently Listed**
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -443,7 +443,12 @@ High
     "FFlagTrackerLodControllerDebugUI": "True"
 }
 ```
-
+### Disable Autocomplete
+```json
+{
+    "FFlagEnableCommandAutocomplete": "False"
+}
+```
 ### Chrome UI TopBar
 ```json
 {
@@ -853,6 +858,20 @@ High
 ```json
 {
     "FFlagDebugDisplayFPS": "True"
+}
+```
+### Verified Badge
+###### Clientsided
+```json
+{
+    "FStringWhitelistVerifiedUserId": "UserID"
+}
+```
+### Verified Badge on everyone
+###### Clientsided
+```json
+{
+    "FFlagOverridePlayerVerifiedBadge": "True"
 }
 ```
 ### Applies cool colors to stuff
