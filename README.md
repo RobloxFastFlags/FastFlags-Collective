@@ -365,6 +365,12 @@ High
 
 <h1 align="center">User Interface</h1>
 
+### Home Sidebar Text
+```json
+{
+    "FFlagEnableNavBarLabels3": "True"
+}
+```
 ### Revert New "Builder" Font
 ```json
 {
@@ -526,7 +532,7 @@ High
 ### Set Custom Kick Message Lenght
 ```json
 {
-    "FIntFontSizePadding": "1"
+    "FIntMaxKickMessageLength": "1"
 }
 ```
 
@@ -941,7 +947,7 @@ High
 ### Ammount of lines to show at once for above
 ```json
 {
-    "FFlagDebugTextBoxServiceShowOverlay": "1"
+    "DFIntTextBoxServiceHistorySize": "1"
 }
 ```
 ### opt-out Experience Language
