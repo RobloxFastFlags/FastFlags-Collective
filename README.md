@@ -2,8 +2,8 @@
 
 <h3 align="center">https://discord.gg/YreqZ7aYmg</h3>
 
-#### Version: 1.0.0.0++ [4/22/2024]
-* **133 Currently Listed**
+#### Version: 1.0.1.2++ [4/25/2024]
+* **143 Currently Listed**
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -365,6 +365,12 @@ High
 
 <h1 align="center">User Interface</h1>
 
+### Home Sidebar Text
+```json
+{
+    "FFlagEnableNavBarLabels3": "True"
+}
+```
 ### Revert New "Builder" Font
 ```json
 {
@@ -437,13 +443,24 @@ High
     "FFlagDebugDontRenderUI": "True"
 }
 ```
+### Dont Render Screen GUIs
+```json
+{
+    "FFlagDebugDontRenderScreenGui": "True"
+}
+```
 ### Enable Audio Controller
 ```json
 {
     "FFlagTrackerLodControllerDebugUI": "True"
 }
 ```
-
+### Disable Autocomplete
+```json
+{
+    "FFlagEnableCommandAutocomplete": "False"
+}
+```
 ### Chrome UI TopBar
 ```json
 {
@@ -510,6 +527,12 @@ High
 ```json
 {
     "FIntFontSizePadding": "1"
+}
+```
+### Set Custom Kick Message Lenght
+```json
+{
+    "FIntMaxKickMessageLength": "1"
 }
 ```
 
@@ -855,6 +878,20 @@ High
     "FFlagDebugDisplayFPS": "True"
 }
 ```
+### Verified Badge
+###### Clientsided
+```json
+{
+    "FStringWhitelistVerifiedUserId": "UserID"
+}
+```
+### Verified Badge on everyone
+###### Clientsided
+```json
+{
+    "FFlagOverridePlayerVerifiedBadge": "True"
+}
+```
 ### Applies cool colors to stuff
 ```json
 {
@@ -905,6 +942,12 @@ High
 ```json
 {
     "FFlagDebugTextBoxServiceShowOverlay": "True"
+}
+```
+### Ammount of lines to show at once for above
+```json
+{
+    "DFIntTextBoxServiceHistorySize": "1"
 }
 ```
 ### opt-out Experience Language
@@ -999,6 +1042,27 @@ High
 ```json
 {
     "FFlagTrackerLodControllerDebugUI": "True"
+}
+```
+### Self Explanatory 4
+###### Disable Drag Detectors
+```json
+{
+    "FFlagDragDetectors1": "False"
+}
+```
+### Self Explanatory 5
+###### Disabe CTM Climbing
+```json
+{
+    "FFlagUserClickToMoveSupportAgentCanClimb2": "False"
+}
+```
+### Self Explanatory 6
+###### Disabe Feedback Button in ESC
+```json
+{
+    "FFlagDisableFeedbackSoothsayerCheck": "False"
 }
 ```
 
