@@ -3,7 +3,7 @@
 <h3 align="center">https://discord.gg/YreqZ7aYmg</h3>
 
 #### Version: 1.0.1.2++ [4/25/2024]
-* **142 Currently Listed**
+* **143 Currently Listed**
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
