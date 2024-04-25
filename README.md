@@ -2,8 +2,8 @@
 
 <h3 align="center">https://discord.gg/YreqZ7aYmg</h3>
 
-#### Version: 1.0.0.1++ [4/22/2024]
-* **136 Currently Listed**
+#### Version: 1.0.1.2++ [4/25/2024]
+* **142 Currently Listed**
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -437,6 +437,12 @@ High
     "FFlagDebugDontRenderUI": "True"
 }
 ```
+### Dont Render Screen GUIs
+```json
+{
+    "FFlagDebugDontRenderScreenGui": "True"
+}
+```
 ### Enable Audio Controller
 ```json
 {
@@ -512,6 +518,12 @@ High
 }
 ```
 ### Set Custom Font Size
+```json
+{
+    "FIntFontSizePadding": "1"
+}
+```
+### Set Custom Kick Message Lenght
 ```json
 {
     "FIntFontSizePadding": "1"
@@ -926,6 +938,12 @@ High
     "FFlagDebugTextBoxServiceShowOverlay": "True"
 }
 ```
+### Ammount of lines to show at once for above
+```json
+{
+    "FFlagDebugTextBoxServiceShowOverlay": "1"
+}
+```
 ### opt-out Experience Language
 ###### Removes the Experience Language option in settings
 ```json
@@ -1018,6 +1036,27 @@ High
 ```json
 {
     "FFlagTrackerLodControllerDebugUI": "True"
+}
+```
+### Self Explanatory 4
+###### Disable Drag Detectors
+```json
+{
+    "FFlagDragDetectors1": "False"
+}
+```
+### Self Explanatory 5
+###### Disabe CTM Climbing
+```json
+{
+    "FFlagUserClickToMoveSupportAgentCanClimb2": "False"
+}
+```
+### Self Explanatory 6
+###### Disabe Feedback Button in ESC
+```json
+{
+    "FFlagDisableFeedbackSoothsayerCheck": "False"
 }
 ```
 
