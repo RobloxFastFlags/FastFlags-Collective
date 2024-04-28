@@ -2,6 +2,12 @@
 
 <h3 align="center">https://discord.gg/YreqZ7aYmg</h3>
 
+<h3 align="center">
+  <a href="https://discord.gg/YreqZ7aYmg">
+    <img src="https://upload.wikimedia.org/wikipedia/en/9/98/Discord_logo.svg" width="100" alt="Join server">
+  </a>
+</h3>
+
 #### Version: 1.0.1.2++ [4/25/2024]
 * **143 Currently Listed**
 
