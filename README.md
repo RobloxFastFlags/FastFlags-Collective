@@ -387,7 +387,7 @@ High
 ### FPS Unlocker in Roblox Menu Settings
 ```json
 {
-    "FFlagGameBasicSettingsFramerateCap2": "True",
+    "FFlagGameBasicSettingsFramerateCap3": "True",
     "DFIntTaskSchedulerTargetFps": "0"
 }
 ```
