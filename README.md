@@ -10,6 +10,7 @@
 
 #### Version: 1.0.1.2++ [4/25/2024]
 * **143 Currently Listed**
+* **Textures currently don't work because "FFlagMSRefactor5" was removed, Roblox always removes the useful features instead of harmful stuff.**
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -386,7 +387,7 @@ High
 ### FPS Unlocker in Roblox Menu Settings
 ```json
 {
-    "FFlagGameBasicSettingsFramerateCap2": "True",
+    "FFlagGameBasicSettingsFramerateCap3": "True",
     "DFIntTaskSchedulerTargetFps": "0"
 }
 ```
