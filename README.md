@@ -1,3 +1,5 @@
+<!-- Hello World -->
+
 <h1 align="center"><img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> Ultimate FastFlags List</h1>
 
 <h3 align="center">https://discord.gg/YreqZ7aYmg</h3>
@@ -8,8 +10,9 @@
   </a>
 </h3>
 
-#### Version: 1.0.1.2++ [4/25/2024]
+#### Version: 5.10.24++
 * **143 Currently Listed**
+* `FFlagGameBasicSettingsFramerateCap3` > `FFlagGameBasicSettingsFramerateCap4`
 * **Textures currently don't work because "FFlagMSRefactor5" was removed, Roblox always removes the useful features instead of harmful stuff.**
 
 ## Bloxstrap How to Use:
@@ -387,7 +390,7 @@ High
 ### FPS Unlocker in Roblox Menu Settings
 ```json
 {
-    "FFlagGameBasicSettingsFramerateCap3": "True",
+    "FFlagGameBasicSettingsFramerateCap4": "True",
     "DFIntTaskSchedulerTargetFps": "0"
 }
 ```
@@ -548,17 +551,17 @@ High
 ### Fix Textures
 ```json
 {
-      "FFlagMSRefactor5": "False"
+    "FFlagMSRefactor5": "False"
 }
 ```
 ### No Textures
 ```json
 {
-      "FStringPartTexturePackTable2022": "{\"glass\":{\"ids\":[\"rbxassetid://9873284556\",\"rbxassetid://9438453972\"],\"color\":[254,254,254,7]}}",
-      "FStringPartTexturePackTablePre2022": "{\"glass\":{\"ids\":[\"rbxassetid://7547304948\",\"rbxassetid://7546645118\"],\"color\":[254,254,254,7]}}",
-      "FStringTerrainMaterialTable2022": "",
-      "FStringTerrainMaterialTablePre2022": "",
-      "FFlagMSRefactor5": "False"
+    "FStringPartTexturePackTable2022": "{\"glass\":{\"ids\":[\"rbxassetid://9873284556\",\"rbxassetid://9438453972\"],\"color\":[254,254,254,7]}}",
+    "FStringPartTexturePackTablePre2022": "{\"glass\":{\"ids\":[\"rbxassetid://7547304948\",\"rbxassetid://7546645118\"],\"color\":[254,254,254,7]}}",
+    "FStringTerrainMaterialTable2022": "",
+    "FStringTerrainMaterialTablePre2022": "",
+    "FFlagMSRefactor5": "False"
 }
 ```
 ### Trollface Textures
@@ -1075,11 +1078,9 @@ High
 
 <h1 align="center">Partnered Discord Servers</h1>
 
-<h3 align="center">✅ Approved & ⚠ Caution</h3>
+<h3 align="center"><img src="https://cdn.discordapp.com/icons/1021647263514247248/a_27b89b4dc40ece794c5cd254fc67d55e.gif" width="128"/> </h3>
 
-<h3 align="center"><img src="https://cdn.discordapp.com/icons/1021647263514247248/a_dd36ba0ae8c5b1a4450571daae64a545.gif" width="128"/> </h3>
-
-<h3 align="center"><a href="https://discord.gg/YreqZ7aYmg">Our Discord Server ✅</a></h3>
+<h3 align="center"><a href="https://discord.gg/YreqZ7aYmg">DAT$ MAH B!*$H 🦅</a></h3>
 
 <h3 align="center">
   <a href="https://discord.gg/YreqZ7aYmg">
@@ -1091,7 +1092,7 @@ High
 
 <h3 align="center"><img src="https://cdn.discordapp.com/icons/1230111631627911199/7d9a147ddea0fe465956e0aa47eedb0d.webp" width="128"/> </h3>
 
-<h3 align="center"><a href="https://discord.gg/8vZQbGNt">Dr JR Fanclub ✅</a></h3>
+<h3 align="center"><a href="https://discord.gg/8vZQbGNt">Dr JR Fanclub</a></h3>
 
 <h3 align="center">
   <a href="https://discord.gg/8vZQbGNt">
@@ -1115,13 +1116,17 @@ High
 # List Information
 * *Creation Date: 9:46 PM 08/25/2023*
 
-<h3 align="center"><img src="https://i.scdn.co/image/ab67616d0000b2739027ba239bc23cb8586cd6be" width="128"/> </h3>
+<h3 align="center">
+  <a href="https://open.spotify.com/track/2aJnyNu4PQxQ2lyj5boiMG">
+    <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" width="128" alt="Listen on Spotify">
+  </a>
+</h3>
 
-<h3 align="center"><a href="https://open.spotify.com/track/0i1bokCJ95evU1gb5HcXFy">Never Lose Me</a> - Flo Milli, SZA, Cardi B</h3>
+<h3 align="center">I Hate U - SZA</h3>
 
 <h1 align="center">
-  <a href="https://open.spotify.com/track/0i1bokCJ95evU1gb5HcXFy">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg" width="100" alt="Listen on Spotify">
+  <a href="https://open.spotify.com/track/2aJnyNu4PQxQ2lyj5boiMG">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg" width="100">
   </a>
 </h1>
 
