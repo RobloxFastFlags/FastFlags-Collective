@@ -513,11 +513,11 @@ High
 ```
 ### Hide guis
 ###### ***Instructions: Replace "ID" with any group ID that you are in.***
-| Key combination   | Action                                                                    |
+| Key combination   | Action                                              |
 | ----------------- | ------------------------------------------------------------------------- |
-| Ctrl + Shift + B  | Toggles GUIs in 3D space (BillboardGuis, SurfaceGuis, etc)                |
-| Ctrl + Shift + C  | Toggles game-defined ScreenGuis                                           |
-| Ctrl + Shift + G  | Toggles Roblox CoreGuis                                                   |
+| Ctrl + Shift + B  | Toggles GUIs in 3D space (BillboardGuis, SurfaceGuis, etc)            |
+| Ctrl + Shift + C  | Toggles game-defined ScreenGuis                             |
+| Ctrl + Shift + G  | Toggles Roblox CoreGuis                                   |
 | Ctrl + Shift + N  | Toggles player names, and other BillboardGuis that show up above a player |
 ```json
 {
@@ -548,17 +548,17 @@ High
 ### Fix Textures
 ```json
 {
-      "FFlagMSRefactor5": "False"
+    "FFlagMSRefactor5": "False"
 }
 ```
 ### No Textures
 ```json
 {
-      "FStringPartTexturePackTable2022": "{\"glass\":{\"ids\":[\"rbxassetid://9873284556\",\"rbxassetid://9438453972\"],\"color\":[254,254,254,7]}}",
-      "FStringPartTexturePackTablePre2022": "{\"glass\":{\"ids\":[\"rbxassetid://7547304948\",\"rbxassetid://7546645118\"],\"color\":[254,254,254,7]}}",
-      "FStringTerrainMaterialTable2022": "",
-      "FStringTerrainMaterialTablePre2022": "",
-      "FFlagMSRefactor5": "False"
+    "FStringPartTexturePackTable2022": "{\"glass\":{\"ids\":[\"rbxassetid://9873284556\",\"rbxassetid://9438453972\"],\"color\":[254,254,254,7]}}",
+    "FStringPartTexturePackTablePre2022": "{\"glass\":{\"ids\":[\"rbxassetid://7547304948\",\"rbxassetid://7546645118\"],\"color\":[254,254,254,7]}}",
+    "FStringTerrainMaterialTable2022": "",
+    "FStringTerrainMaterialTablePre2022": "",
+    "FFlagMSRefactor5": "False"
 }
 ```
 ### Trollface Textures
