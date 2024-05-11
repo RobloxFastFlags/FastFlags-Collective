@@ -10,8 +10,9 @@
   </a>
 </h3>
 
-#### Version: 5.10.24++
-* **143 Currently Listed**
+#### Version: 5.11.24++
+* **144 Currently Listed**
+* `FFlagNewCameraControls`
 * `FFlagGameBasicSettingsFramerateCap3` > `FFlagGameBasicSettingsFramerateCap4`
 * **Textures currently don't work because "FFlagMSRefactor5" was removed, Roblox always removes the useful features instead of harmful stuff.**
 
@@ -765,6 +766,12 @@ High
 
 <h1 align="center">other fflags</h1>
 
+### New Camera Mode
+```json
+{
+    "FFlagNewCameraControls": "True"
+}
+```
 ### Disable In-game Advertisements
 ```json
 {
