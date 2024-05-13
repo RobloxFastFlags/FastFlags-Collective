@@ -26,7 +26,7 @@
 
 [Watch a Video Tutorial](https://www.youtube.com/watch?v=d7jzGM5kYO4)
 
-## Normal Roblox Bootstrapper  How to Use:
+## Normal Roblox Bootstrapper How to Use:
 ###### You can also do Roblox Studio
 1. **Navigate to your Roblox Installation directory. Typically found at `%localappdata%\Roblox\Versions\` for Windows or `C:\Program Files (x86)\Roblox\Versions`.**
 2. **Identify the folder `version-xxxxxxxxxxxxxxxx` ~~containing `RobloxPlayerBeta.exe`~~ You can do this for Roblox Studio too.**
@@ -34,6 +34,14 @@
 4. **Paste the JSON into `ClientAppSettings.json`. (You can utilize ChatGPT to format multiple JSONs for clarity if needed)**
 5. **Save and your good to go!**
 ###### Do note that after roblox updates you have to paste in your fflags again.
+
+## How to Use _PlaceFilter
+1. **Add `_PlaceFilter` after the Fast Flag name.**
+2. **Add a semicolon after the Value (`;`). Examples: `True;`, `1;`.**
+3. **Include a Place ID after the semicolon. Examples: `True;4483381587`, `1;4483381587`.**
+4. **Your configuration is complete!**
+
+[Watch a Video Tutorial](https://www.youtube.com/watch?v=5XjhPF5ydJM)
 
 [Watch a Video Tutorial](https://streamable.com/rk5an6)
 
