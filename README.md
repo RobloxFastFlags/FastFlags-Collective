@@ -1,7 +1,9 @@
 <!-- Hello World -->
 
 > [!NOTE]
-> This list might be slightly outdated [Lastest List](https://github.com/collectivists/FastFlags-Collective)
+> This list might be slightly outdated
+
+<p align="center"><a href="https://github.com/collectivists/FastFlags-Collective">COLLECTIVIST LIST</a></p>
 
 <h1 align="center"><img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> Ultimate FastFlags List</h1>
 
