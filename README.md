@@ -1,5 +1,8 @@
 <!-- Hello World -->
 
+> [!NOTE]
+> This list might be slightly outdated [Maintained List](https://github.com/collectivists/FastFlags-Collective)
+
 <h1 align="center"><img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> Ultimate FastFlags List</h1>
 
 <h3 align="center">https://discord.gg/YreqZ7aYmg</h3>
