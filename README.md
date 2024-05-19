@@ -1316,19 +1316,18 @@ High
 * *Creation Date: 9:46 PM 08/25/2023*
 
 <h3 align="center">
-  <a href="https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk">
-    <img src="https://i.scdn.co/image/ab67616d0000b273cd4fbef085542cb698fd598c" width="128" alt="Listen on Spotify">
+  <a href="https://open.spotify.com/track/2aJnyNu4PQxQ2lyj5boiMG">
+    <img src="https://i.scdn.co/image/ab67616d0000b2730c471c36970b9406233842a5" width="128" alt="Listen on Spotify">
   </a>
 </h3>
 
-<h3 align="center">No Love - Summer Walker, SZA</h3>
+<h3 align="center">I Hate U - SZA</h3>
 
 <h1 align="center">
-  <a href="https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk">
+  <a href="https://open.spotify.com/track/2aJnyNu4PQxQ2lyj5boiMG">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg" width="100">
   </a>
 </h1>
-
 <h4 align="center">FastFlags 2024®<sup>eal</sup></h3>
 
 <p align="center"><a href="https://raw.githubusercontent.com/MaximumADHD/Roblox-Client-Tracker/roblox/FVariables.txt">FVariables.txt</a></p>
