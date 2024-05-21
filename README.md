@@ -7,7 +7,7 @@
   <img src="https://github.com/collectivists/rbxflags/blob/12f3b3820485f3d296344beb1da89bdeaa38a12e/assets/ICON-DARK.gif" width="86" alt="COLLECTIVISTS">
 </h3>
 
-<p align="center"><a href="https://github.com/collectivists/FastFlags-Collective">RBXFLAG$ LIST</a></p>
+<p align="center"><a href="https://github.com/collectivists/rbxflags">RBXFLAG$ LIST</a></p>
 
 <h4 align="center">COLLECTIVISTS 2024®</h3>
 
