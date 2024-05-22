@@ -1,9 +1,15 @@
 <!-- Hello World -->
 
 > [!NOTE]
-> This list might be slightly outdated
+> ~~This list might be slightly outdated~~ This list is no longer maintained. Please check our new list below.
 
-<p align="center"><a href="https://github.com/collectivists/FastFlags-Collective">COLLECTIVIST LIST</a></p>
+<h3 align="center">
+  <img src="https://github.com/collectivists/rbxflags/blob/12f3b3820485f3d296344beb1da89bdeaa38a12e/assets/ICON-DARK.gif" width="86" alt="COLLECTIVISTS">
+</h3>
+
+<p align="center"><a href="https://github.com/collectivists/rbxflags">RBXFLAG$ LIST</a></p>
+
+<h4 align="center">COLLECTIVISTS 2024®</h3>
 
 <h1 align="center"><img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> Ultimate FastFlags List</h1>
 
